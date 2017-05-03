@@ -13,9 +13,9 @@ do
 
 function run(msg, matches)
   return [[ 
-💠Jove English Help V4.0💠
-
-🔆Customization SuperGroup:🔆
+<b>"💠Warior English Help V4.0💠</b>
+ 
+<code>🔆Customization SuperGroup:🔆
 💭lock
 (links-contacts-spam-arabic-member-rtl-tgservice-sticker-tag-emoji-english-forward-badword-webpage)
 🗯unlock
@@ -30,7 +30,7 @@ function run(msg, matches)
 (photo-name-about-rules-username-flood)
 
 🚩public (🔓-🔐)
-
+3 
 💥Manage a User💥:
 🚫block (Id or Reply)
 🚫kick (Id or Reply)
@@ -66,11 +66,11 @@ function run(msg, matches)
 🌀res (id)
 🌀id
 
-🔏setlink
+🔏setlink</code>
 🏳link
 〰〰〰〰〰〰〰
-☑️ #Jove V4.0
-💠Titan Zeus💠
+☑️ #warior V4.0
+💠@hsmdewx3💠"
 ]]
 end
 
